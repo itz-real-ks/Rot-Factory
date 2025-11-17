@@ -1,2 +1,2 @@
 # Rot-Factory
-Generates me endless mind rot videos using python
+Gens me endless mind rot videos using python
